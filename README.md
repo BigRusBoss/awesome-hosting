@@ -2,7 +2,6 @@
 
 List of awesome hosting sorted by minimal plan price
 
-![#StandWithUkraine](https://github.com/jonathanbossenger/stand-with-ukraine/blob/e95a7ed22faac167cc623cf6e1cba49394769fe3/_repo_assets/banner-772%C3%97250.png)
 
 > All Russian services are marked by flags so i do not recommend using any of them
 
